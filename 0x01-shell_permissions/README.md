@@ -1,1 +1,1 @@
-Write a script that sets the permission to the file hello to group only
+Write a script that sets the mode of the file hello
